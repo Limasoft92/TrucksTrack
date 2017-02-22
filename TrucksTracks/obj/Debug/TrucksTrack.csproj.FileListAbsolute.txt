@@ -1,0 +1,13 @@
+D:\Development\projects\TrucksTrack\TrucksTracks\bin\Debug\TrucksTracks.exe.config
+D:\Development\projects\TrucksTrack\TrucksTracks\bin\Debug\TrucksTracks.exe
+D:\Development\projects\TrucksTrack\TrucksTracks\bin\Debug\TrucksTracks.pdb
+D:\Development\projects\TrucksTrack\TrucksTracks\obj\Debug\TrucksTracks.AddEventForm.resources
+D:\Development\projects\TrucksTrack\TrucksTracks\obj\Debug\TrucksTracks.AddTruckForm.resources
+D:\Development\projects\TrucksTrack\TrucksTracks\obj\Debug\TrucksTracks.LoginForm.resources
+D:\Development\projects\TrucksTrack\TrucksTracks\obj\Debug\TrucksTracks.HistoryForm.resources
+D:\Development\projects\TrucksTrack\TrucksTracks\obj\Debug\TrucksTracks.MainForm.resources
+D:\Development\projects\TrucksTrack\TrucksTracks\obj\Debug\TrucksTracks.Properties.Resources.resources
+D:\Development\projects\TrucksTrack\TrucksTracks\obj\Debug\TrucksTracks.SettingsForm.resources
+D:\Development\projects\TrucksTrack\TrucksTracks\obj\Debug\TrucksTrack.csproj.GenerateResource.Cache
+D:\Development\projects\TrucksTrack\TrucksTracks\obj\Debug\TrucksTracks.exe
+D:\Development\projects\TrucksTrack\TrucksTracks\obj\Debug\TrucksTracks.pdb
